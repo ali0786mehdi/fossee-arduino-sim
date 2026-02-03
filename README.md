@@ -6,7 +6,7 @@ This is a web-based prototype I built for the "Open Source Hardware" screening t
 
 I focused on building a clean, responsive UI where users can interact with the board (toggling an LED) and see the corresponding C++ code update in real-time. It’s designed to show how React state can simulate hardware logic without needing a heavy backend.
 
-**👉 Live Demo:** [](https://fossee-arduino-p3q47fwvq-alis-projects-eb70b3f4.vercel.app/)
+**👉 Live Demo:** [(https://fossee-arduino-p3q47fwvq-alis-projects-eb70b3f4.vercel.app/)]
 
 ---
 
